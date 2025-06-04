@@ -29,7 +29,7 @@ As interações e funcionalidades foram implementadas com o seguinte fluxo de me
 
 # PARA FUNCIONAR O SISTEMA SIGA OS PASSOS SEGUINTES
 
-- Instalar o visual studio code;
+- Instalar o VScode;
 - Criar uma pasta para adicionar esses arquivos dentro dela;
 - Baixar o node no link: https://nodejs.org/en/download/;
 - Para gerar o qrcode e conectar no whatsapp, digite no terminal "node robo.js";
